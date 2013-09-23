@@ -1,0 +1,1 @@
+It is useful to have the interface LinearSystemSolver because many other classes can use it. The LinearSystemSolver is very, very useful for a linear algebra library so many other classes would need to use, or implement, this interface. If the interface wasn't defined, a lot of extra work would have to be done to get the same results that you would get with the interface.

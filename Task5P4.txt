@@ -1,0 +1,1 @@
+The Jacobi Method solves a matrix that has no zero entries along its diagonal. Each element along the diagonal of the matrix is solved for. The iteration continues until each element is solved for.
